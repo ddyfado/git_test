@@ -1,3 +1,3 @@
 # git_test
-
-Hello Odin!
+Git that hub gurl
+this is an odin project diddle brought to you by me
